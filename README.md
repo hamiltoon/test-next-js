@@ -6,4 +6,4 @@
 - React running on frontend
 - Socket connection
 - start a kuberneteskluster running on gcp
-- try setup a connection from github codespaces and gcp using telepresence
+- try setup a connection from github codespaces to gcp using telepresence
