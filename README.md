@@ -4,6 +4,6 @@
 
 - Get next js working
 - React running on frontend
-- Socker connection
-- start a kuberneteskluster running
-- 
+- Socket connection
+- start a kuberneteskluster running on gcp
+- try setup a connection from github codespaces and gcp using telepresence
